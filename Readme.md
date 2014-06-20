@@ -1,6 +1,6 @@
-# Spiced
+# Wiggum
 
-Spices is a template for [Thelia](http://thelia.net) ecommerce solution
+Wiggum is a template for [Thelia](http://thelia.net) ecommerce solution
 
 ## Installation
 
@@ -10,19 +10,19 @@ You have 2 choices for installing this template :
 
 ### The safe way
 
-* Copy and Paste the default template and name spiced 
+* Copy and Paste the default template and name wiggum 
 * replace the assets directory by the assets directory of this repo. 
 * Don't forget to change the activated template
-* edit the ```layout.tpl``` file and replace ```{default_translation_domain domain='fo.default'}``` by ```{default_translation_domain domain='fo.spiced'}```. 
+* edit the ```layout.tpl``` file and replace ```{default_translation_domain domain='fo.default'}``` by ```{default_translation_domain domain='fo.wiggum'}```. 
 
 ### The lazy way
 
 * replace the assets directory contained in the default template by the assets directory of this repo. 
 
-**Be careful, by using this method tou can loose all your modifications if you update the default template**
+**Be careful, by using this method you can loose all your modifications if you update the default template**
 
 ## Screenshots
 
-![spices home](http://thelia.net/templates/spices/home.jpg)
+![wiggum home](http://thelia.net/templates/wiggum/home.jpg)
 
-![spices product](http://thelia.net/templates/spices/product.jpg)
+![wiggum product](http://thelia.net/templates/wiggum/product.jpg)
